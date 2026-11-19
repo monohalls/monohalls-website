@@ -20,7 +20,7 @@ body {
   width: 100%;
   max-width: 1000px;
   min-height: 650px;
-  padding: 40px 50px;
+  padding: 100px 100px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
